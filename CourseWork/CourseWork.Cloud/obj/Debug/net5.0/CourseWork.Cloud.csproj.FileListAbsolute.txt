@@ -1,0 +1,12 @@
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\bin\Debug\net5.0\CourseWork.Cloud.deps.json
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\bin\Debug\net5.0\CourseWork.Cloud.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\bin\Debug\net5.0\ref\CourseWork.Cloud.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\bin\Debug\net5.0\CourseWork.Cloud.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.csproj.AssemblyReference.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.AssemblyInfoInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.AssemblyInfo.cs
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.csproj.CoreCompileInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\ref\CourseWork.Cloud.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Cloud\obj\Debug\net5.0\CourseWork.Cloud.pdb

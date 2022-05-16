@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CourseWork.Cloud/1.0.0": {
+        "dependencies": {
+          "Dropbox.Api": "6.27.0"
+        },
+        "runtime": {
+          "CourseWork.Cloud.dll": {}
+        }
+      },
+      "Dropbox.Api/6.27.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dropbox.Api.dll": {
+            "assemblyVersion": "6.27.0.0",
+            "fileVersion": "6.27.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseWork.Cloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dropbox.Api/6.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zSkNFMnMqhpZ+84yHfpPtsgx6O0rpefE8SECCiqsG0q9sMIAyVcLaFhfKQ17h++ZEFOpHMS7KwZL4srb0ZmKw==",
+      "path": "dropbox.api/6.27.0",
+      "hashPath": "dropbox.api.6.27.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}

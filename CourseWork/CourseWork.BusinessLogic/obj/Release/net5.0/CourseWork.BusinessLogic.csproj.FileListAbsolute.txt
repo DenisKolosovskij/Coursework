@@ -1,0 +1,17 @@
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.BusinessLogic.deps.json
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.BusinessLogic.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\ref\CourseWork.BusinessLogic.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.BusinessLogic.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.DataAccess.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.DataAccess.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\bin\Release\net5.0\CourseWork.Core.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.csproj.AssemblyReference.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.AssemblyInfoInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.AssemblyInfo.cs
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.csproj.CopyComplete
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\ref\CourseWork.BusinessLogic.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.BusinessLogic\obj\Release\net5.0\CourseWork.BusinessLogic.pdb

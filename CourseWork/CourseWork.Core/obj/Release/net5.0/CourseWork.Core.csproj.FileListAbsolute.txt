@@ -1,0 +1,12 @@
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\bin\Release\net5.0\CourseWork.Core.deps.json
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\bin\Release\net5.0\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\bin\Release\net5.0\ref\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\bin\Release\net5.0\CourseWork.Core.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.AssemblyInfoInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.AssemblyInfo.cs
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.csproj.CoreCompileInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\ref\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Core\obj\Release\net5.0\CourseWork.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,47 @@
+﻿@model CourseWork.Web.Models.Collections.CollectionsViewModel
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.AspNetCore.Identity
+
+@inject IViewLocalizer Localizer
+@inject SignInManager<CourseWork.Core.Identity.WebUser> SignInManager
+@inject UserManager<CourseWork.Core.Identity.WebUser> UserManager
+
+<div>
+    <div class="row">
+        <div class="col-6">@await Html.PartialAsync("_ItemSearch")</div>
+        <div class="col-6"><a class="btn btn-primary" asp-controller="Collections" asp-action="Create">@Localizer["Create"]</a></div>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Localizer["CollectionTheme"]</th>
+                <th>@Localizer["CollectionDescription"]</th>
+                <th>@Localizer["CollectionTitle"]</th>
+                <th>@Localizer["CollectionAuthor"]</th>
+                <th>@Localizer["CollectionImage"]</th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var collection in Model.Collections)
+            {
+            <tr>
+                <td>@Html.DisplayFor(item => collection.Theme)</td>
+                <td>@Html.DisplayFor(item => collection.Description)</td>
+                <td>@Html.DisplayFor(item => collection.Title)</td>
+                <td>@Html.DisplayFor(item => collection.Author)</td>
+                <td><img src="@collection.Image" alt="" height="@collection.ImageHeight" width="@collection.ImageWidth" /></td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Index" asp-controller="Items" asp-route-collectionId="@collection.Id">@Localizer["Select"]</a>
+                    @if (SignInManager.IsSignedIn(User) || User.IsInRole("admin") || UserManager.GetUserName(User) == collection.Author)
+                    {
+                        <a class="btn btn-secondary" asp-action="Edit" asp-controller="Collections" asp-route-collectionId="@collection.Id">@Localizer["Edit"]</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Collections" asp-route-collectionId="@collection.Id">@Localizer["Delete"]</a>
+                    }
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjNdSqjt98wBwwtja/FiAFSLpSMctWW7u9YljkPHAQ0DhZxxJ3JNHJh7PvIOyDXCsT6sTIkfDLbVjvXWiVkS3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denko\\Desktop\\CourseWork\\CourseWork.Cloud\\CourseWork.Cloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denko\\.nuget\\packages\\dropbox.api\\6.27.0\\dropbox.api.6.27.0.nupkg.sha512",
+    "C:\\Users\\denko\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+﻿@model CourseWork.Web.Models.Tags.TagsViewModel
+@using Microsoft.AspNetCore.Mvc.Localization
+
+@inject IViewLocalizer Localizer
+
+<h2>@Localizer["Tags"]</h2>
+<div class="row">
+    <div class="col-6">@await Html.PartialAsync("_ItemSearch")</div>
+</div>
+<table class="table">
+    @foreach (var tag in Model.Tags)
+    {
+        <tr>
+            <td>@tag.Name</td>
+        </tr>
+    }
+</table>

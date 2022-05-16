@@ -1,0 +1,15 @@
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\CourseWork.DataAccess.deps.json
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\CourseWork.DataAccess.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\ref\CourseWork.DataAccess.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\CourseWork.DataAccess.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\CourseWork.Core.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\bin\Release\net5.0\CourseWork.Core.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.csproj.AssemblyReference.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.AssemblyInfoInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.AssemblyInfo.cs
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.csproj.CoreCompileInputs.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.csproj.CopyComplete
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\ref\CourseWork.DataAccess.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.DataAccess\obj\Release\net5.0\CourseWork.DataAccess.pdb

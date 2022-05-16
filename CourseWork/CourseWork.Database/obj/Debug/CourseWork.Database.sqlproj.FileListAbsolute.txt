@@ -1,0 +1,10 @@
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\bin\Debug\CourseWork.Database.dacpac
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\bin\Debug\CourseWork.Database.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\bin\Debug\CourseWork.Database.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\CourseWork.Database.sqlproj.AssemblyReference.cache
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\CourseWork.Database.dll
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\CourseWork.Database.pdb
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\Model.xml
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\refactor.xml
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\postdeploy.sql
+D:\Documents\ITransition\ITransitionTasks\CourseWork\CourseWork.Database\obj\Debug\predeploy.sql
